@@ -1,0 +1,15 @@
+.navbar {
+    background-color: grey;
+}
+
+.navbar-button {
+    width: auto;
+    margin: 5px;
+    background-color: grey;
+    transition-duration: 400ms;
+  }
+
+.navbar-button:hover {
+background-color: #4CAF50; /* Green */
+color: white;
+}
